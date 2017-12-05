@@ -4,6 +4,7 @@
 # perl tar xz unzip curl bind-utils net-tools ipset libtool-ltdl rsync nfs-utils
 # sets up filesystem mounts
 # Installs and configures Docker
+# It is used in the Advanced Insall Quick Start blog post located at https://mesosphere.com/blog/dcos-advanced-installation-guide/
 
 set -o errexit -o nounset -o pipefail
 
